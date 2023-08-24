@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This blog is basically my journey in this class ST558. It is definitely fun to be able to do blogging. I might find an alternative career option here. So stay tuned.
