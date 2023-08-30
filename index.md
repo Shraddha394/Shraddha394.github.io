@@ -1,2 +1,2 @@
 This blog is basically my journey in this class ST558. It is definitely fun to be able to do blogging. I might find an alternative career option here. So stay tuned.
-![]("/Users/syadav8/Desktop/ST558/tidyr.png")
+![]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fstatistics-for-data-analysis-nanodegree--nd588&psig=AOvVaw0MBpYJYWSuPetSnhlq_PyL&ust=1693505218699000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPDxhNv8hIEDFQAAAAAdAAAAABAD")
