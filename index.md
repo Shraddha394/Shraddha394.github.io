@@ -1,2 +1,6 @@
 This blog is basically my journey in this class ST558. It is definitely fun to be able to do blogging. I might find an alternative career option here. So stay tuned.
-![]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fstatistics-for-data-analysis-nanodegree--nd588&psig=AOvVaw0MBpYJYWSuPetSnhlq_PyL&ust=1693505218699000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPDxhNv8hIEDFQAAAAAdAAAAABAD")
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
